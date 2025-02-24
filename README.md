@@ -20,4 +20,4 @@ This is a modern and stylish Todo List web application built with HTML, CSS, and
 - **Delete a Task:** Click the delete (×) button next to a task to remove it.
 
 - ## 🔗 Live Preview  
-[👉 View Portfolio](https://bhoomitodos.ccbp.tech/)  
+[👉 View TODO](https://bhoomitodos.ccbp.tech/)  
