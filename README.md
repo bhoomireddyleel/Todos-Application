@@ -18,3 +18,6 @@ This is a modern and stylish Todo List web application built with HTML, CSS, and
 - **Add a Task:** Enter a task in the input field and click the "Add" button or press Enter.
 - **Complete a Task:** Click on the task text to toggle the completed state.
 - **Delete a Task:** Click the delete (×) button next to a task to remove it.
+
+- ## 🔗 Live Preview  
+[👉 View Portfolio](https://bhoomitodos.ccbp.tech/)  
